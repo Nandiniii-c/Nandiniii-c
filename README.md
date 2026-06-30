@@ -2,6 +2,7 @@
 **A passionate Fullstack || AI Engineer || Under Graduate student from JITD**
 
 Email Me 👉 ✉️ **nandinic1020@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 🚀 I'm currently working on AI/ML, Agentic AI, and AI-powered automation workflows.<br><br>🤝 I'm looking to collaborate on AI/ML, Agentic AI, and Full-Stack development projects.<br><br>💡 I'm looking for help with LLMs, RAG, Multi-Agent Systems, MLOps, and scalable AI applications.<br><br>🌱 I'm currently learning Advanced Machine Learning, Deep Learning, Agentic AI, LangChain, LangGraph, and AI Automation.<br><br>💬 Ask me about Python, MERN Stack, AI/ML, and Web Development.<br><br>⚡ Fun fact: I love turning ideas into real-world AI applications and enjoy learning emerging technologies through hands-on projects.
 
 
